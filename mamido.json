@@ -7,15 +7,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres773318muhams1a",
+      "name": "azuredeploy773318muhams1a",
       "location": "eastus",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "1e8jajekaseres286271muhams1a",
+            "name": "1azuredeploy286271muhams1a",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -35,15 +35,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres185845muhams1b",
+      "name": "azuredeploy185845muhams1b",
       "location": "eastus2",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "2e8jajekaseres125761muhams1b",
+            "name": "2azuredeploy125761muhams1b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -63,15 +63,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres125836muhams1b",
+      "name": "azuredeploy125836muhams1b",
       "location": "southcentralus",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "3e8jajekaseres841482muhams1b",
+            "name": "3azuredeploy841482muhams1b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -91,15 +91,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "4e8jajekaseres734398muhams1c",
+      "name": "4azuredeploy734398muhams1c",
       "location": "westus2",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres718950muhams1c",
+            "name": "azuredeploy718950muhams1c",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -119,15 +119,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "5e8jajekaseres842525muhams1d",
+      "name": "5azuredeploy842525muhams1d",
       "location": "westus3",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres236263muhams1d",
+            "name": "azuredeploy236263muhams1d",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -147,15 +147,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres56999muhams2a",
+      "name": "azuredeploy56999muhams2a",
       "location": "australiaeast",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres224516muhams2a",
+            "name": "azuredeploy224516muhams2a",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -175,15 +175,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres802073muhams2b",
+      "name": "azuredeploy802073muhams2b",
       "location": "southeastasia",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres665355muhams2b",
+            "name": "azuredeploy665355muhams2b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -203,15 +203,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres579559muhams2b",
+      "name": "azuredeploy579559muhams2b",
       "location": "northeurope",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres208896muhams2b",
+            "name": "azuredeploy208896muhams2b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -231,15 +231,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres16981muhams2c",
+      "name": "azuredeploy16981muhams2c",
       "location": "swedencentral",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres427510muhams2c",
+            "name": "azuredeploy427510muhams2c",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -259,15 +259,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres693670muhams2d",
+      "name": "azuredeploy693670muhams2d",
       "location": "uksouth",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres688636muhams2d",
+            "name": "azuredeploy688636muhams2d",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -287,15 +287,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres216879muhams3a",
+      "name": "azuredeploy216879muhams3a",
       "location": "westeurope",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres185455muhams3a",
+            "name": "azuredeploy185455muhams3a",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -315,15 +315,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres769157muhams3b",
+      "name": "azuredeploy769157muhams3b",
       "location": "centralus",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres601512muhams3b",
+            "name": "azuredeploy601512muhams3b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -343,15 +343,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres625466muhams3c",
+      "name": "azuredeploy625466muhams3c",
       "location": "southafricanorth",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres881183muhams3c",
+            "name": "azuredeploy881183muhams3c",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -371,15 +371,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres629996muhams3d",
+      "name": "azuredeploy629996muhams3d",
       "location": "centralindia",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres800025muhams3d",
+            "name": "azuredeploy800025muhams3d",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -399,15 +399,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres159228muhams4a",
+      "name": "azuredeploy159228muhams4a",
       "location": "eastasia",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres50084muhams4a",
+            "name": "azuredeploy50084muhams4a",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -427,15 +427,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres349147muhams4b",
+      "name": "azuredeploy349147muhams4b",
       "location": "japaneast",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres621272muhams4b",
+            "name": "azuredeploy621272muhams4b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -455,15 +455,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres656139muhams4c",
+      "name": "azuredeploy656139muhams4c",
       "location": "koreacentral",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres140479muhams4c",
+            "name": "azuredeploy140479muhams4c",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -483,15 +483,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres246722muhams4d",
+      "name": "azuredeploy246722muhams4d",
       "location": "canadacentral",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres113504muhams4d",
+            "name": "azuredeploy113504muhams4d",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -511,15 +511,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres209976muhams5a",
+      "name": "azuredeploy209976muhams5a",
       "location": "francecentral",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres692182muhams5a",
+            "name": "azuredeploy692182muhams5a",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -539,15 +539,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres963429muhams5b",
+      "name": "azuredeploy963429muhams5b",
       "location": "germanywestcentral",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres601255muhams5b",
+            "name": "azuredeploy601255muhams5b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -567,15 +567,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres549020muhams5c",
+      "name": "azuredeploy549020muhams5c",
       "location": "norwayeast",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres86575muhams5c",
+            "name": "azuredeploy86575muhams5c",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -595,15 +595,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres69591muhams2b",
+      "name": "azuredeploy69591muhams2b",
       "location": "switzerlandnorth",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres168695muhams2b",
+            "name": "azuredeploy168695muhams2b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -623,15 +623,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres427574muhams2b",
+      "name": "azuredeploy427574muhams2b",
       "location": "uaenorth",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres23685muhams2b",
+            "name": "azuredeploy23685muhams2b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -651,15 +651,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres935925muhams2b",
+      "name": "azuredeploy935925muhams2b",
       "location": "brazilsouth",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres823975muhams2b",
+            "name": "azuredeploy823975muhams2b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -679,15 +679,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres854024muhams1a",
+      "name": "azuredeploy854024muhams1a",
       "location": "northcentralus",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres883320muhams1a",
+            "name": "azuredeploy883320muhams1a",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -707,15 +707,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres594472muhams1b",
+      "name": "azuredeploy594472muhams1b",
       "location": "westus",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres352911muhams1b",
+            "name": "azuredeploy352911muhams1b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -735,15 +735,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres96168muhams1b",
+      "name": "azuredeploy96168muhams1b",
       "location": "westcentralus",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres429007muhams1b",
+            "name": "azuredeploy429007muhams1b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -763,15 +763,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres259490muhams1c",
+      "name": "azuredeploy259490muhams1c",
       "location": "australiasoutheast",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres877730muhams1c",
+            "name": "azuredeploy877730muhams1c",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -791,15 +791,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres97563muhams1d",
+      "name": "azuredeploy97563muhams1d",
       "location": "japanwest",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres558588muhams1d",
+            "name": "azuredeploy558588muhams1d",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -819,15 +819,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres527085muhams2a",
+      "name": "azuredeploy527085muhams2a",
       "location": "southindia",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres866328muhams2a",
+            "name": "azuredeploy866328muhams2a",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -847,15 +847,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres500122muhams2b",
+      "name": "azuredeploy500122muhams2b",
       "location": "canadaeast",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres963203muhams2b",
+            "name": "azuredeploy963203muhams2b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -875,15 +875,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres975720muhams2b",
+      "name": "azuredeploy975720muhams2b",
       "location": "norwaywest",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres841833muhams2b",
+            "name": "azuredeploy841833muhams2b",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -903,15 +903,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres519698muhams2c",
+      "name": "azuredeploy519698muhams2c",
       "location": "switzerlandwest",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres853745muhams2c",
+            "name": "azuredeploy853745muhams2c",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -931,15 +931,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "e8jajekaseres72270muhams2d",
+      "name": "azuredeploy72270muhams2d",
       "location": "ukwest",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "e8jajekaseres720238muhams2d",
+            "name": "azuredeploy720238muhams2d",
             "properties": {
-              "image": "mdk0011/mdk0011:dodo",
+              "image": "mdk0011/mdk0011:btrm",
               "ports": [],
               "environmentVariables": [],
               "resources": {
